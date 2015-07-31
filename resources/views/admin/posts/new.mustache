@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Clojure Blog</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Editing Post</h1>
+      <form action="/admin/posts/create" method="post">
+        {{{csrf-field}}}
+        <label for="title">Title</label>
+        <input name="title"/><br />
+        <label for="body">Body</label>
+        <textarea name="body"></textarea> <br/>
+        <input type="submit"/>
+      </form>
+    </div>
+  </body>
+</html>

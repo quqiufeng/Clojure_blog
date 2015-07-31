@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Clojure" name="Clojure">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="instaparse-1.4.0-G__739" level="project" />
+    <orderEntry type="library" name="ring-basic-authentication-1.0.5-G__740" level="project" />
+    <orderEntry type="library" name="tools.macro-0.1.5-G__741" level="project" />
+    <orderEntry type="library" name="ring-ssl-0.2.1-G__742" level="project" />
+    <orderEntry type="library" name="clojure-complete-0.2.3-G__743" level="project" />
+    <orderEntry type="library" name="ring-headers-0.1.3-G__744" level="project" />
+    <orderEntry type="library" name="ring-codec-1.0.0-G__745" level="project" />
+    <orderEntry type="library" name="clostache-1.4.0-G__746" level="project" />
+    <orderEntry type="library" name="clj-time-0.9.0-G__747" level="project" />
+    <orderEntry type="library" name="data.codec-0.1.0-G__748" level="project" />
+    <orderEntry type="library" name="core.incubator-0.1.2-G__749" level="project" />
+    <orderEntry type="library" name="tools.reader-0.9.1-G__750" level="project" />
+    <orderEntry type="library" name="commons-io-2.4-G__751" level="project" />
+    <orderEntry type="library" name="crypto-equality-1.0.0-G__752" level="project" />
+    <orderEntry type="library" name="ring-mock-0.1.5-G__753" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.36-G__754" level="project" />
+    <orderEntry type="library" name="hiccup-1.0.5-G__755" level="project" />
+    <orderEntry type="library" name="clojure-1.7.0-G__756" level="project" />
+    <orderEntry type="library" name="ring-core-1.4.0-G__757" level="project" />
+    <orderEntry type="library" name="commons-codec-1.6-G__758" level="project" />
+    <orderEntry type="library" name="compojure-1.4.0-G__759" level="project" />
+    <orderEntry type="library" name="ring-anti-forgery-1.0.0-G__760" level="project" />
+    <orderEntry type="library" name="http-kit-2.1.19-G__761" level="project" />
+    <orderEntry type="library" name="medley-0.6.0-G__762" level="project" />
+    <orderEntry type="library" name="tools.nrepl-0.2.6-G__763" level="project" />
+    <orderEntry type="library" name="crypto-random-1.2.0-G__764" level="project" />
+    <orderEntry type="library" name="ring-defaults-0.1.5-G__765" level="project" />
+    <orderEntry type="library" name="joda-time-2.6-G__766" level="project" />
+    <orderEntry type="library" name="commons-fileupload-1.3.1-G__767" level="project" />
+    <orderEntry type="library" name="servlet-api-2.5-G__768" level="project" />
+    <orderEntry type="library" name="java.jdbc-0.4.1-G__769" level="project" />
+    <orderEntry type="library" name="clout-2.1.2-G__770" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:clojure:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: compojure:compojure:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:tools.macro:0.1.5" level="project" />
+    <orderEntry type="library" name="Maven: clout:clout:2.1.2" level="project" />
+    <orderEntry type="library" name="Maven: instaparse:instaparse:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: medley:medley:0.6.0" level="project" />
+    <orderEntry type="library" name="Maven: ring:ring-core:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:tools.reader:0.9.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: clj-time:clj-time:0.9.0" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.6" level="project" />
+    <orderEntry type="library" name="Maven: crypto-random:crypto-random:1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: crypto-equality:crypto-equality:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: ring:ring-codec:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.6" level="project" />
+    <orderEntry type="library" name="Maven: http-kit:http-kit:2.1.19" level="project" />
+    <orderEntry type="library" name="Maven: de.ubercode.clostache:clostache:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:core.incubator:0.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:java.jdbc:0.4.1" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.36" level="project" />
+    <orderEntry type="library" name="Maven: ring:ring-defaults:0.1.5" level="project" />
+    <orderEntry type="library" name="Maven: ring:ring-ssl:0.2.1" level="project" />
+    <orderEntry type="library" name="Maven: ring:ring-headers:0.1.3" level="project" />
+    <orderEntry type="library" name="Maven: ring:ring-anti-forgery:1.0.0" level="project" />
+    <orderEntry type="library" name="Maven: hiccup:hiccup:1.0.5" level="project" />
+    <orderEntry type="library" name="Maven: ring-basic-authentication:ring-basic-authentication:1.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.clojure:data.codec:0.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.clojure:tools.nrepl:0.2.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: clojure-complete:clojure-complete:0.2.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: ring-mock:ring-mock:0.1.5" level="project" />
+  </component>
+</module>
