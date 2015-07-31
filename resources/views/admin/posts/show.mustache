@@ -6,12 +6,12 @@
     <div class="container">
       <h1>Listing Post</h1>
       <sections>
-        <h2>{{title}}</h2>
-        <datetime>{{created_at}}</datetime>
-        <p>{{body}}<p>
+        <h2>{{post.title}}</h2>
+        <datetime>{{post.created_at}}</datetime>
+        <p>{{post.body}}<p>
         <p>
-          <a href="/admin/posts/{{id}}/edit">Edit</a>
-          <a href="/admin/posts/{{id}}/delete">Delete</a>
+          <a href="/admin/posts/{{post.id}}/edit">Edit</a>
+          <a href="/admin/posts/{{post.id}}/delete">Delete</a>
         </p>
       </sections>
     </div>

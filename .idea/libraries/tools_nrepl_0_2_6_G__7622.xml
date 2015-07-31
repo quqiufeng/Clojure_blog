@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="tools.nrepl-0.2.6-G__762">
-    <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.nrepl/0.2.6/tools.nrepl-0.2.6.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
